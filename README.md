@@ -1,1 +1,1 @@
-# simple-sentiment-classification
+# sentiment-classification
